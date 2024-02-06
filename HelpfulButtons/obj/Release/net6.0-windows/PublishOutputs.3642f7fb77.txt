@@ -1,0 +1,6 @@
+C:\Code\desktop\HelpfulButtons\HelpfulButtons\bin\Release\net6.0-windows\publish\HelpfulButtons.exe
+C:\Code\desktop\HelpfulButtons\HelpfulButtons\bin\Release\net6.0-windows\publish\HelpfulButtons.dll
+C:\Code\desktop\HelpfulButtons\HelpfulButtons\bin\Release\net6.0-windows\publish\HelpfulButtons.deps.json
+C:\Code\desktop\HelpfulButtons\HelpfulButtons\bin\Release\net6.0-windows\publish\HelpfulButtons.runtimeconfig.json
+C:\Code\desktop\HelpfulButtons\HelpfulButtons\bin\Release\net6.0-windows\publish\HelpfulButtons.pdb
+C:\Code\desktop\HelpfulButtons\HelpfulButtons\bin\Release\net6.0-windows\publish\Newtonsoft.Json.dll
